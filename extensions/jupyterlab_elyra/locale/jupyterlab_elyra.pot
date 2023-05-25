@@ -1,0 +1,662 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: jupyterlab_elyra 3.13.0.dev0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /packages/pipeline-editor/schema/plugin.json:/description
+msgctxt "schema"
+msgid "Elyra Pipeline Editor Configuration."
+msgstr ""
+
+#: /packages/pipeline-editor/schema/plugin.json:/jupyter.lab.setting-icon-label
+msgctxt "settings"
+msgid "Elyra Pipeline Editor"
+msgstr ""
+
+#: /packages/pipeline-editor/schema/plugin.json:/properties/doubleClickToOpenProperties/description
+msgctxt "settings"
+msgid "If enabled, double-clicking a node opens the node's properties. If disabled (the default), the node's source file is opened."
+msgstr ""
+
+#: /packages/pipeline-editor/schema/plugin.json:/properties/doubleClickToOpenProperties/title
+msgctxt "settings"
+msgid "Double-click on pipeline node opens properties."
+msgstr ""
+
+#: /packages/pipeline-editor/schema/plugin.json:/title
+msgctxt "schema"
+msgid "Elyra Pipeline Editor"
+msgstr ""
+
+#: packages/code-snippet/src/CodeSnippetService.ts:64
+msgid "Delete snippet %1"
+msgstr ""
+
+#: packages/code-snippet/src/CodeSnippetService.ts:66 packages/code-snippet/src/CodeSnippetWidget.tsx:244 packages/metadata-common/src/MetadataEditorWidget.tsx:292 packages/metadata-common/src/MetadataWidget.tsx:129 packages/pipeline-editor/src/PipelineEditorWidget.tsx:389 packages/pipeline-editor/src/PipelineEditorWidget.tsx:658 packages/pipeline-editor/src/PipelineEditorWidget.tsx:734 packages/pipeline-editor/src/PipelineEditorWidget.tsx:753 packages/pipeline-editor/src/PipelineEditorWidget.tsx:836 packages/pipeline-editor/src/SubmitFileButtonExtension.tsx:118 packages/pipeline-editor/src/SubmitFileButtonExtension.tsx:58 packages/ui-components/src/BrowseFileDialog.tsx:229 packages/ui-components/src/RequestErrors.tsx:160
+msgid "cancel"
+msgstr ""
+
+#: packages/code-snippet/src/CodeSnippetService.ts:67 packages/code-snippet/src/CodeSnippetWidget.tsx:245 packages/metadata-common/src/MetadataEditorWidget.tsx:293 packages/metadata-common/src/MetadataWidget.tsx:130 packages/pipeline-editor/src/PipelineEditorWidget.tsx:390 packages/pipeline-editor/src/PipelineEditorWidget.tsx:735 packages/pipeline-editor/src/PipelineEditorWidget.tsx:754 packages/pipeline-editor/src/SubmitFileButtonExtension.tsx:119 packages/ui-components/src/FormComponents/Tags.tsx:93 packages/ui-components/src/RequestErrors.tsx:115 packages/ui-components/src/RequestErrors.tsx:165 packages/ui-components/src/RequestErrors.tsx:92
+msgid "confirm"
+msgstr ""
+
+#: packages/code-snippet/src/CodeSnippetWidget.tsx:237
+msgid "Warning"
+msgstr ""
+
+#: packages/code-snippet/src/CodeSnippetWidget.tsx:238
+msgid "Code snippet \"%1\" is incompatible with %2. Continue?"
+msgstr ""
+
+#: packages/code-snippet/src/CodeSnippetWidget.tsx:403
+msgid "Copy to clipboard"
+msgstr ""
+
+#: packages/code-snippet/src/CodeSnippetWidget.tsx:411
+msgid "Insert"
+msgstr ""
+
+#: packages/code-snippet/src/CodeSnippetWidget.tsx:418 packages/metadata-common/src/MetadataWidget.tsx:146
+msgid "Edit"
+msgstr ""
+
+#: packages/code-snippet/src/CodeSnippetWidget.tsx:430 packages/metadata-common/src/MetadataWidget.tsx:158
+msgid "Duplicate"
+msgstr ""
+
+#: packages/code-snippet/src/CodeSnippetWidget.tsx:445 packages/metadata-common/src/MetadataWidget.tsx:173 packages/pipeline-editor/src/PipelineEditorWidget.tsx:984
+msgid "Delete"
+msgstr ""
+
+#: packages/code-snippet/src/CodeSnippetWidget.tsx:608 packages/metadata-common/src/MetadataWidget.tsx:481 packages/pipeline-editor/src/ComponentCatalogsWidget.tsx:165 packages/pipeline-editor/src/RuntimeImagesWidget.tsx:94 packages/pipeline-editor/src/RuntimesWidget.tsx:178
+msgid "Click the + button to add %1"
+msgstr ""
+
+#: packages/code-snippet/src/index.ts:73 packages/code-snippet/src/index.ts:86
+msgid "Code Snippets"
+msgstr ""
+
+#: packages/code-snippet/src/index.ts:79
+msgid "code snippet"
+msgstr ""
+
+#: packages/code-snippet/src/index.ts:95
+msgid "Save As Code Snippet"
+msgstr ""
+
+#: packages/metadata-common/src/FilterTools.tsx:205
+msgid "Search..."
+msgstr ""
+
+#: packages/metadata-common/src/FilterTools.tsx:216
+msgid "Filter by tag"
+msgstr ""
+
+#: packages/metadata-common/src/FilterTools.tsx:95
+msgid "No tags defined"
+msgstr ""
+
+#: packages/metadata-common/src/MetadataEditor.tsx:131
+msgid "Edit %1"
+msgstr ""
+
+#: packages/metadata-common/src/MetadataEditor.tsx:133
+msgid "Add new %1 %2"
+msgstr ""
+
+#: packages/metadata-common/src/MetadataEditor.tsx:178
+msgid "All fields marked with an asterisk are required."
+msgstr ""
+
+#: packages/metadata-common/src/MetadataEditor.tsx:182
+msgid "[Learn more ...]"
+msgstr ""
+
+#: packages/metadata-common/src/MetadataEditor.tsx:207
+msgid "Cannot save invalid form."
+msgstr ""
+
+#: packages/metadata-common/src/MetadataEditor.tsx:216
+msgid "Save & Close"
+msgstr ""
+
+#: packages/metadata-common/src/MetadataEditorWidget.tsx:173
+msgid "Display Name"
+msgstr ""
+
+#: packages/metadata-common/src/MetadataEditorWidget.tsx:174
+msgid "Name used to identify an instance of metadata."
+msgstr ""
+
+#: packages/metadata-common/src/MetadataEditorWidget.tsx:283
+msgid "Close without saving?"
+msgstr ""
+
+#: packages/metadata-common/src/MetadataEditorWidget.tsx:286
+msgid "Metadata has unsaved changes, close without saving?"
+msgstr ""
+
+#: packages/metadata-common/src/MetadataEditorWidget.tsx:339
+msgid "Loading..."
+msgstr ""
+
+#: packages/metadata-common/src/MetadataWidget.tsx:122
+msgid "Delete %1 %2 %3?"
+msgstr ""
+
+#: packages/metadata-common/src/MetadataWidget.tsx:527
+msgid "Refresh list"
+msgstr ""
+
+#: packages/metadata-common/src/MetadataWidget.tsx:546
+msgid "Create new %1"
+msgstr ""
+
+#: packages/metadata/src/index.ts:128
+msgid "New %1 %2"
+msgstr ""
+
+#: packages/metadata/src/index.ts:181
+msgid "Close Tab"
+msgstr ""
+
+#: packages/pipeline-editor/src/ComponentCatalogsWidget.tsx:137
+msgid "Refresh list and reload components from all catalogs"
+msgstr ""
+
+#: packages/pipeline-editor/src/ComponentCatalogsWidget.tsx:60
+msgid "Reload components from catalog"
+msgstr ""
+
+#: packages/pipeline-editor/src/ComponentCatalogsWidget.tsx:84
+msgid "Runtime Type"
+msgstr ""
+
+#: packages/pipeline-editor/src/ComponentCatalogsWidget.tsx:88
+msgid "Description"
+msgstr ""
+
+#: packages/pipeline-editor/src/ComponentCatalogsWidget.tsx:92
+msgid "Categories"
+msgstr ""
+
+#: packages/pipeline-editor/src/EmptyPipelineContent.tsx:101
+msgid "button"
+msgstr ""
+
+#: packages/pipeline-editor/src/EmptyPipelineContent.tsx:104
+msgid "Refer to the"
+msgstr ""
+
+#: packages/pipeline-editor/src/EmptyPipelineContent.tsx:111
+msgid "pipeline components"
+msgstr ""
+
+#: packages/pipeline-editor/src/EmptyPipelineContent.tsx:112
+msgid "help topic"
+msgstr ""
+
+#: packages/pipeline-editor/src/EmptyPipelineContent.tsx:114
+msgid "for details"
+msgstr ""
+
+#: packages/pipeline-editor/src/EmptyPipelineContent.tsx:119 packages/pipeline-editor/src/EmptyPipelineContent.tsx:54
+msgid "Click"
+msgstr ""
+
+#: packages/pipeline-editor/src/EmptyPipelineContent.tsx:127 packages/pipeline-editor/src/EmptyPipelineContent.tsx:62
+msgid "to configure the pipeline editor"
+msgstr ""
+
+#: packages/pipeline-editor/src/EmptyPipelineContent.tsx:47
+msgid "Start your new pipeline by dragging files from the file browser pane"
+msgstr ""
+
+#: packages/pipeline-editor/src/EmptyPipelineContent.tsx:91
+msgid "Start your new pipeline by dragging files from the file browser pane or add custom components by clicking the"
+msgstr ""
+
+#: packages/pipeline-editor/src/FileSubmissionDialog.tsx:105
+msgid ""
+"For GPU-intensive workloads, you can choose more than 1 GPU. Must be\n"
+"            an integer."
+msgstr ""
+
+#: packages/pipeline-editor/src/FileSubmissionDialog.tsx:116
+msgid "The total amount of RAM specified."
+msgstr ""
+
+#: packages/pipeline-editor/src/FileSubmissionDialog.tsx:132
+msgid "Include File Dependencies"
+msgstr ""
+
+#: packages/pipeline-editor/src/FileSubmissionDialog.tsx:43
+msgid "Environment Variables"
+msgstr ""
+
+#: packages/pipeline-editor/src/FileSubmissionDialog.tsx:83
+msgid "Runtime Image"
+msgstr ""
+
+#: packages/pipeline-editor/src/FileSubmissionDialog.tsx:97
+msgid ""
+"For CPU-intensive workloads, you can choose more than 1 CPU (e.g.\n"
+"            1.5)."
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:1008
+msgid "Close Panel"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:1008
+msgid "Open Panel"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:1073
+msgid "Unsupported File(s)"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:1074
+msgid "Only supported files (Notebooks, Python scripts, and R scripts) can be added to a pipeline."
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:251 packages/pipeline-editor/src/PipelineService.tsx:126 packages/pipeline-editor/src/RuntimeImagesWidget.tsx:111 packages/pipeline-editor/src/index.ts:377
+msgid "runtime image"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:372
+msgid "Migrate pipeline?"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:375
+msgid ""
+"This pipeline corresponds to an older version of Elyra and needs\n"
+"              to be migrated."
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:378
+msgid ""
+"Although the pipeline can be further edited and/or submitted after\n"
+"              its update,"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:381
+msgid ""
+"the migration will not be completed until the pipeline has been\n"
+"              saved within the editor."
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:385
+msgid "Proceed with migration?"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:416
+msgid "Pipeline migration aborted!"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:420
+msgid ""
+"The pipeline you are trying to migrate uses example\n"
+"                      components, which are not"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:423
+msgid ""
+"enabled in your environment. Complete the setup\n"
+"                      instructions in"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:430
+msgid "Example Custom Components"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:432
+msgid "and try again."
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:435
+msgid "Close"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:441
+msgid "Pipeline migration failed!"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:455
+msgid "Load pipeline failed!"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:570
+msgid "Component not found"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:573
+msgid ""
+"This node uses a component that is not stored in your component\n"
+"              registry."
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:588
+msgid "Learn more..."
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:646
+msgid "Failed run: %1"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:647
+msgid "Failed export: %1"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:654
+msgid "This pipeline contains unsaved changes. To submit the pipeline the changes need to be saved."
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:659 packages/pipeline-editor/src/SubmitFileButtonExtension.tsx:59
+msgid "Save and Submit"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:694
+msgid "run pipeline for %1"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:695
+msgid "export pipeline for %1"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:697
+msgid "run pipeline"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:698
+msgid "export pipeline"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:703 packages/pipeline-editor/src/SubmitFileButtonExtension.tsx:86
+msgid "runtime"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:833 packages/pipeline-editor/src/PipelineEditorWidget.tsx:948
+msgid "Clear Pipeline"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:834
+msgid "Are you sure you want to clear the pipeline?"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:837 packages/pipeline-editor/src/PipelineEditorWidget.tsx:849
+msgid "Clear All"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:838
+msgid "Clear Canvas"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:929
+msgid "Run Pipeline"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:934
+msgid "Save Pipeline"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:941
+msgid "Export Pipeline"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:955
+msgid "Open Runtimes"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:962
+msgid "Open Runtime Images"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:969
+msgid "Open Component Catalogs"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:974
+msgid "Undo"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:975
+msgid "Redo"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:976
+msgid "Cut"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:977
+msgid "Copy"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:978
+msgid "Paste"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:981
+msgid "Add Comment"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:987
+msgid "Arrange Horizontally"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:992
+msgid "Arrange Vertically"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineEditorWidget.tsx:999
+msgid "Runtime: %1"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineExportDialog.tsx:81
+msgid "Replace if file already exists"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineService.tsx:101
+msgid "schema"
+msgstr ""
+
+#: packages/pipeline-editor/src/PipelineSubmissionDialog.tsx:38
+msgid "Pipeline Name"
+msgstr ""
+
+#: packages/pipeline-editor/src/RuntimeConfigSelect.tsx:41
+msgid "Run in-place locally"
+msgstr ""
+
+#: packages/pipeline-editor/src/RuntimeConfigSelect.tsx:63
+msgid "Runtime Platform"
+msgstr ""
+
+#: packages/pipeline-editor/src/RuntimeConfigSelect.tsx:85
+msgid "Runtime Configuration"
+msgstr ""
+
+#: packages/pipeline-editor/src/RuntimeImagesWidget.tsx:66
+msgid "Container Image"
+msgstr ""
+
+#: packages/pipeline-editor/src/RuntimesWidget.tsx:115
+msgid "API Endpoint"
+msgstr ""
+
+#: packages/pipeline-editor/src/RuntimesWidget.tsx:126
+msgid "Cloud Object Storage"
+msgstr ""
+
+#: packages/pipeline-editor/src/RuntimesWidget.tsx:159 packages/pipeline-editor/src/index.ts:358
+msgid "runtime configuration"
+msgstr ""
+
+#: packages/pipeline-editor/src/SubmitFileButtonExtension.tsx:107
+msgid "Run file as pipeline"
+msgstr ""
+
+#: packages/pipeline-editor/src/SubmitFileButtonExtension.tsx:165
+msgid "Run as Pipeline"
+msgstr ""
+
+#: packages/pipeline-editor/src/SubmitFileButtonExtension.tsx:167
+msgid "Run file as batch"
+msgstr ""
+
+#: packages/pipeline-editor/src/SubmitFileButtonExtension.tsx:54
+msgid "This file contains unsaved changes. To run the file as pipeline the changes need to be saved."
+msgstr ""
+
+#: packages/pipeline-editor/src/SubmitFileButtonExtension.tsx:87
+msgid "run file as pipeline."
+msgstr ""
+
+#: packages/pipeline-editor/src/index.ts:167
+msgid "Add File to Pipeline"
+msgstr ""
+
+#: packages/pipeline-editor/src/index.ts:175
+msgid "Refresh Pipeline Palette"
+msgstr ""
+
+#: packages/pipeline-editor/src/index.ts:355 packages/pipeline-editor/src/index.ts:366
+msgid "Runtimes"
+msgstr ""
+
+#: packages/pipeline-editor/src/index.ts:374 packages/pipeline-editor/src/index.ts:384
+msgid "Runtime Images"
+msgstr ""
+
+#. TODO: This info should come from the server for all schemaspaces
+#. TODO: This info should come from the server for all schemaspaces
+#: packages/pipeline-editor/src/index.ts:392 packages/pipeline-editor/src/index.ts:405
+msgid "Component Catalogs"
+msgstr ""
+
+#: packages/pipeline-editor/src/index.ts:395
+msgid "component catalog"
+msgstr ""
+
+#: packages/python-editor/src/index.ts:246
+msgid "New Python Editor"
+msgstr ""
+
+#: packages/python-editor/src/index.ts:247
+msgid "Python Editor"
+msgstr ""
+
+#: packages/python-editor/src/index.ts:248
+msgid "Create a new Python Editor"
+msgstr ""
+
+#: packages/r-editor/src/index.ts:245
+msgid "New R Editor"
+msgstr ""
+
+#: packages/r-editor/src/index.ts:245
+msgid "R Editor"
+msgstr ""
+
+#: packages/r-editor/src/index.ts:246
+msgid "Create a new R Editor"
+msgstr ""
+
+#: packages/scala-editor/src/index.ts:246
+msgid "New Scala Editor"
+msgstr ""
+
+#: packages/scala-editor/src/index.ts:247
+msgid "Scala Editor"
+msgstr ""
+
+#: packages/scala-editor/src/index.ts:248
+msgid "Create a new Scala Editor"
+msgstr ""
+
+#: packages/script-editor/src/ScriptEditor.tsx:112
+msgid "Save file contents"
+msgstr ""
+
+#: packages/script-editor/src/ScriptEditor.tsx:119
+msgid "Run"
+msgstr ""
+
+#: packages/script-editor/src/ScriptEditor.tsx:126
+msgid "Interrupt the kernel"
+msgstr ""
+
+#: packages/theme/src/index.ts:107 packages/theme/src/index.ts:132
+msgid "Launcher"
+msgstr ""
+
+#: packages/theme/src/index.ts:89
+msgid "New Launcher"
+msgstr ""
+
+#: packages/ui-components/src/BrowseFileDialog.tsx:226
+msgid "Select a file"
+msgstr ""
+
+#: packages/ui-components/src/BrowseFileDialog.tsx:230
+msgid "Select"
+msgstr ""
+
+#: packages/ui-components/src/FormComponents/Tags.tsx:146
+msgid "Add Tag"
+msgstr ""
+
+#: packages/ui-components/src/FormComponents/Tags.tsx:90
+msgid "A tag with this label already exists."
+msgstr ""
+
+#: packages/ui-components/src/RequestErrors.tsx:108
+msgid "Error contacting server"
+msgstr ""
+
+#: packages/ui-components/src/RequestErrors.tsx:111
+msgid "Endpoint"
+msgstr ""
+
+#: packages/ui-components/src/RequestErrors.tsx:112
+msgid "not found."
+msgstr ""
+
+#: packages/ui-components/src/RequestErrors.tsx:139
+msgid "Cannot %1"
+msgstr ""
+
+#: packages/ui-components/src/RequestErrors.tsx:140
+msgid "Error retrieving metadata"
+msgstr ""
+
+#: packages/ui-components/src/RequestErrors.tsx:145
+msgid "No {%1} configuration is defined"
+msgstr ""
+
+#: packages/ui-components/src/RequestErrors.tsx:147
+msgid "No {%1} configuration for %2 is defined"
+msgstr ""
+
+#: packages/ui-components/src/RequestErrors.tsx:154
+msgid "Please create one and try again."
+msgstr ""
+
+#: packages/ui-components/src/RequestErrors.tsx:162
+msgid "Open runtimes"
+msgstr ""
+
+#: packages/ui-components/src/RequestErrors.tsx:68
+msgid "Check the JupyterLab log for more details at %1"
+msgstr ""
+
+#: packages/ui-components/src/RequestErrors.tsx:73
+msgid "Check the JupyterLab log for more details"
+msgstr ""
+
+#: packages/ui-components/src/RequestErrors.tsx:77
+msgid "Error making request"
+msgstr ""
